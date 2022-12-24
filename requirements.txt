@@ -1,11 +1,11 @@
 # Actual Requirements
-numpy
-scipy
-pandas
-joblib
-matplotlib
-colorcet
-pyviz 
-holoviews 
-bokeh
+numpy==1.23.4
+scipy==1.9.3
+pandas==1.5.2
+joblib==1.1.1
+matplotlib==3.6.2
+colorcet==3.0.1
+pyviz
+holoviews==1.15.3 
+bokeh==2.4.3
 
