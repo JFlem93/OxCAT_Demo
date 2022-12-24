@@ -1,135 +1,116 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: win-64
-anyio=3.5.0=py38haa95532_0
-appdirs=1.4.4=pypi_0
-argon2-cffi=21.3.0=pyhd3eb1b0_0
-argon2-cffi-bindings=21.2.0=py38h2bbff1b_0
-asttokens=2.0.5=pyhd3eb1b0_0
-attrs=21.4.0=pyhd3eb1b0_0
-babel=2.9.1=pyhd3eb1b0_0
-backcall=0.2.0=pyhd3eb1b0_0
-beautifulsoup4=4.11.1=py38haa95532_0
-bleach=4.1.0=pyhd3eb1b0_0
-bokeh=2.4.3=pypi_0
-brotlipy=0.7.0=py38h2bbff1b_1003
-ca-certificates=2022.10.11=haa95532_0
-certifi=2022.9.24=py38haa95532_0
-cffi=1.15.1=py38h2bbff1b_0
-charset-normalizer=2.0.4=pyhd3eb1b0_0
-colorama=0.4.5=py38haa95532_0
-colorcet=3.0.1=pypi_0
-contourpy=1.0.6=pypi_0
-cryptography=38.0.1=py38h21b164f_0
-cycler=0.11.0=pypi_0
-datetime=4.7=pypi_0
-debugpy=1.5.1=py38hd77b12b_0
-decorator=5.1.1=pyhd3eb1b0_0
-defusedxml=0.7.1=pyhd3eb1b0_0
-entrypoints=0.4=py38haa95532_0
-executing=0.8.3=pyhd3eb1b0_0
-firefox=107.0=h63175ca_0
-fonttools=4.38.0=pypi_0
-geckodriver=0.32.0=h611cf2b_0
-holoviews=1.15.2=pypi_0
-idna=3.4=py38haa95532_0
-importlib-metadata=4.11.3=py38haa95532_0
-importlib_resources=5.2.0=pyhd3eb1b0_1
-ipykernel=6.15.2=py38haa95532_0
-ipython=8.4.0=py38haa95532_0
-ipython_genutils=0.2.0=pyhd3eb1b0_1
-ipywidgets=8.0.2=pypi_0
-jedi=0.18.1=py38haa95532_1
-jinja2=3.1.2=py38haa95532_0
-joblib=1.1.1=py38haa95532_0
-json5=0.9.6=pyhd3eb1b0_0
-jsonschema=4.16.0=py38haa95532_0
-jupyter_client=7.3.5=py38haa95532_0
-jupyter_core=4.11.1=py38haa95532_0
-jupyter_server=1.18.1=py38haa95532_0
-jupyterlab=3.4.4=py38haa95532_0
-jupyterlab-widgets=3.0.3=pypi_0
-jupyterlab_pygments=0.1.2=py_0
-jupyterlab_server=2.15.2=py38haa95532_0
-kiwisolver=1.4.4=pypi_0
-libsodium=1.0.18=h62dcd97_0
-markdown=3.4.1=pypi_0
-markupsafe=2.1.1=py38h2bbff1b_0
-matplotlib=3.6.2=pypi_0
-matplotlib-inline=0.1.6=py38haa95532_0
-mistune=2.0.4=pypi_0
-mne=1.2.1=pypi_0
-nbclassic=0.3.5=pyhd3eb1b0_0
-nbclient=0.5.13=py38haa95532_0
-nbconvert=7.2.3=pypi_0
-nbformat=5.5.0=py38haa95532_0
-nest-asyncio=1.5.5=py38haa95532_0
-notebook=6.4.12=py38haa95532_0
-numpy=1.23.4=pypi_0
-openssl=1.1.1s=h2bbff1b_0
-packaging=21.3=pyhd3eb1b0_0
-pandas=1.5.1=pypi_0
-pandocfilters=1.5.0=pyhd3eb1b0_0
-panel=0.14.1=pypi_0
-param=1.12.2=pypi_0
-parso=0.8.3=pyhd3eb1b0_0
-pickleshare=0.7.5=pyhd3eb1b0_1003
-pillow=9.3.0=pypi_0
-pip=22.2.2=py38haa95532_0
-pkgutil-resolve-name=1.3.10=py38haa95532_0
-pooch=1.6.0=pypi_0
-prometheus_client=0.14.1=py38haa95532_0
-prompt-toolkit=3.0.20=pyhd3eb1b0_0
-psutil=5.9.0=py38h2bbff1b_0
-pure_eval=0.2.2=pyhd3eb1b0_0
-pycparser=2.21=pyhd3eb1b0_0
-pyct=0.4.8=pypi_0
-pygments=2.11.2=pyhd3eb1b0_0
-pyopenssl=22.0.0=pyhd3eb1b0_0
-pyparsing=3.0.9=py38haa95532_0
-pyrsistent=0.18.0=py38h196d8e1_0
-pysocks=1.7.1=py38haa95532_0
-python=3.8.13=h6244533_1
-python-dateutil=2.8.2=pyhd3eb1b0_0
-python-fastjsonschema=2.16.2=py38haa95532_0
-pytz=2022.1=py38haa95532_0
-pyviz-comms=2.2.1=pypi_0
-pywin32=302=py38h2bbff1b_2
-pywinpty=2.0.2=py38h5da7b33_0
-pyyaml=6.0=pypi_0
-pyzmq=23.2.0=py38hd77b12b_0
-requests=2.28.1=py38haa95532_0
-scipy=1.9.3=pypi_0
-selenium=3.141.0=py38h2bbff1b_1000
-send2trash=1.8.0=pyhd3eb1b0_1
-setuptools=65.5.0=py38haa95532_0
-six=1.16.0=pyhd3eb1b0_1
-sniffio=1.2.0=py38haa95532_1
-soupsieve=2.3.2.post1=py38haa95532_0
-sqlite=3.39.3=h2bbff1b_0
-stack_data=0.2.0=pyhd3eb1b0_0
-terminado=0.13.1=py38haa95532_0
-testpath=0.6.0=py38haa95532_0
-tinycss2=1.2.1=pypi_0
-tornado=6.2=py38h2bbff1b_0
-tqdm=4.64.1=pypi_0
-traitlets=5.1.1=pyhd3eb1b0_0
-typing-extensions=4.3.0=py38haa95532_0
-typing_extensions=4.3.0=py38haa95532_0
-ucrt=10.0.22621.0=h57928b3_0
-urllib3=1.26.12=py38haa95532_0
-vc=14.2=h21ff451_1
-voila=0.4.0=pypi_0
-vs2015_runtime=14.32.31332=h1d6e394_9
-wcwidth=0.2.5=pyhd3eb1b0_0
-webencodings=0.5.1=py38_1
-websocket-client=0.58.0=py38haa95532_4
-websockets=10.4=pypi_0
-wheel=0.37.1=pyhd3eb1b0_0
-widgetsnbextension=4.0.3=pypi_0
-win_inet_pton=1.1.0=py38haa95532_0
-wincertstore=0.2=py38haa95532_2
-winpty=0.4.3=4
-zeromq=4.3.4=hd77b12b_0
-zipp=3.8.0=py38haa95532_0
-zope-interface=5.5.1=pypi_0
+anyio @ file:///C:/ci/anyio_1644463701441/work/dist
+appdirs==1.4.4
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569878360/work
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650274792587/work
+bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
+bokeh==2.4.3
+brotlipy==0.7.0
+certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
+colorcet==3.0.1
+contourpy==1.0.6
+cryptography @ file:///C:/b/abs_36x9ifdcl4/croot/cryptography_1665612655344/work
+cycler==0.11.0
+DateTime==4.7
+debugpy @ file:///C:/ci/debugpy_1637073815078/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+entrypoints @ file:///C:/ci/entrypoints_1649926621247/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
+fonttools==4.38.0
+holoviews==1.15.2
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1648544472910/work
+importlib-resources @ file:///tmp/build/80754af9/importlib_resources_1625135880749/work
+ipykernel @ file:///C:/b/abs_21ykzkm7y_/croots/recipe/ipykernel_1662361803478/work
+ipython @ file:///C:/ci/ipython_1657652657542/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==8.0.2
+jedi @ file:///C:/ci/jedi_1644315425835/work
+Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
+joblib @ file:///C:/b/abs_e60_bwl1v6/croot/joblib_1666298845728/work
+json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
+jsonschema @ file:///C:/b/abs_59eyhnbyej/croots/recipe/jsonschema_1663375476535/work
+jupyter-server @ file:///C:/Windows/TEMP/abs_d3c42c59-765d-4f9b-9fa3-ad5b1369485611i_yual/croots/recipe/jupyter_server_1658754493238/work
+jupyter_client @ file:///C:/b/abs_8fbm7986b_/croots/recipe/jupyter_client_1662504374117/work
+jupyter_core @ file:///C:/b/abs_a9330r1z_i/croots/recipe/jupyter_core_1664917313457/work
+jupyterlab @ file:///C:/ci/jupyterlab_1658909327110/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-widgets==3.0.3
+jupyterlab_server @ file:///C:/ci/jupyterlab_server_1664911423754/work
+kiwisolver==1.4.4
+Markdown==3.4.1
+MarkupSafe @ file:///C:/ci/markupsafe_1654489871526/work
+matplotlib==3.6.2
+matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934035815/work
+mistune==2.0.4
+mne==1.2.1
+nbclassic @ file:///opt/conda/conda-bld/nbclassic_1644943264176/work
+nbclient @ file:///C:/ci/nbclient_1650290386732/work
+nbconvert==7.2.3
+nbformat @ file:///C:/b/abs_1dw90o2uqb/croots/recipe/nbformat_1663744957967/work
+nest-asyncio @ file:///C:/ci/nest-asyncio_1649829929372/work
+notebook @ file:///C:/Windows/TEMP/abs_79abr1_60s/croots/recipe/notebook_1659083661851/work
+numpy==1.23.4
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.5.1
+pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
+panel==0.14.1
+param==1.12.2
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.3.0
+pkgutil_resolve_name @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_81wm45v3kb/croots/recipe/pkgutil-resolve-name_1661463352381/work
+pooch==1.6.0
+prometheus-client @ file:///C:/Windows/TEMP/abs_ab9nx8qb08/croots/recipe/prometheus_client_1659455104602/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyct==0.4.8
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_7f_7lba6rl/croots/recipe/pyparsing_1661452540662/work
+pyrsistent @ file:///C:/ci/pyrsistent_1636111468851/work
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///C:/Windows/TEMP/abs_90eacd4e-8eff-491e-b26e-f707eba2cbe1ujvbhqz1/croots/recipe/pytz_1654762631027/work
+pyviz-comms==2.2.1
+pywin32==302
+pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-2.0.2-cp38-none-win_amd64.whl
+PyYAML==6.0
+pyzmq @ file:///C:/ci/pyzmq_1657616005830/work
+requests @ file:///C:/ci/requests_1657717096906/work
+scipy==1.9.3
+selenium @ file:///C:/ci/selenium_1614268348533/work
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio @ file:///C:/ci/sniffio_1614030707456/work
+soupsieve @ file:///C:/b/abs_fasraqxhlv/croot/soupsieve_1666296394662/work
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+terminado @ file:///C:/ci/terminado_1644322757089/work
+testpath @ file:///C:/Windows/TEMP/abs_23c7fa33-cbb9-46dc-b7c5-590c38e2de3d4bmbngal/croots/recipe/testpath_1655908553202/work
+tinycss2==1.2.1
+tornado @ file:///C:/ci/tornado_1662476991259/work
+tqdm==4.64.1
+traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
+typing_extensions @ file:///C:/Windows/TEMP/abs_dd2d0moa85/croots/recipe/typing_extensions_1659638831135/work
+urllib3 @ file:///C:/b/abs_a8_3vfznn_/croot/urllib3_1666298943664/work
+voila==0.4.0
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+websocket-client @ file:///C:/ci/websocket-client_1614804473297/work
+websockets==10.4
+widgetsnbextension==4.0.3
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+zipp @ file:///C:/ci/zipp_1652274073489/work
+zope.interface==5.5.1
